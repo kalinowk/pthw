@@ -1,0 +1,1 @@
+projects for learn projects the hard way
